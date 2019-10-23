@@ -1,0 +1,22 @@
+{
+    "name": "Rafique/module-shared-cart",
+    "description": "Share Cart Across Multiple Websites",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Daniel Rafique",
+            "email": "hello@danielrafique.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Rafique\\SharedCart\\": ""
+        }
+    }
+}
