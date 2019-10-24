@@ -1,17 +1,14 @@
 # Magento2 Module Rafique SharedCart
 
-    ``rafique/module-shared-cart``
+    `rafique/module-shared-cart`
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
- - [Configuration](#markdown-header-configuration)
- - [Specifications](#markdown-header-specifications)
- - [Attributes](#markdown-header-attributes)
 
 
 ## Main Functionalities
-Share Cart Across Multiple Websites in Magento 2. The module has been tested using subdomains but should also work with a fully qualified domain.
- subdomain example eu.m2.dev or us.m2.dev
+Share Cart Across Multiple Websites in Magento 2. The module has been tested using `subdomains` but should also work with fully qualified domains too.
+ Subdomain example `eu.m2.dev` or `us.m2.dev`
 
 ## Installation
 \* = in production please use the `--keep-generated` option
